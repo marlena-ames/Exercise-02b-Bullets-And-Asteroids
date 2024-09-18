@@ -14,7 +14,7 @@ Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extens
 None
 
 ## Future Development
-Scenes and Menus
+Explosions and Enemy
 
 ## Created by
 Marlena Ames
